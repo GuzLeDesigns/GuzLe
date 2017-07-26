@@ -1,0 +1,42 @@
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\obj\Debug\Assembly-CSharp.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Paula\Desktop\IDLE GAME\GAME\Moon Clicker2\Moon Clicker2\Temp\bin\Debug\UnityEngine.Networking.xml
